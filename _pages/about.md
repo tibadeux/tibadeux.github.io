@@ -1,7 +1,7 @@
 ---
 permalink: /
-title: "Daniel"
-excerpt: "About me"
+title: "Inicio"
+excerpt: "Acerca de mi"
 author_profile: true
 redirect_from: 
   - /about/
