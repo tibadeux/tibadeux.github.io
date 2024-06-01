@@ -8,6 +8,16 @@ redirect_from:
   - /about.html
 ---
 
+👋 Me llamo Gerardo Daniel López Montejo, Soy Maestro en Planeación y Profesor Universitario 💻. Además, tengo 20 años de experiencia en el uso de las geotecnologías 🌎.
+
+Estoy interesado en las aplicaciones de las geotencologías en el estudio del riesgo ❓. Imparto docencia en distintos programas de máster, doctorado y cursos de especialización/formación ya sea de diseño, desarrollo y evaluación de productos software. Me encanta el ecosistema de Kotlin y Vue.js 💓.
+
+A parte de mi docencia diaria, imparto formación en cursos de máster/doctorado y programas de especialización/grupos de trabajo. Mi especializad es el diseño, desarrollo y evaluación de experiencia de usuario y productos interactivos, gamificación, usabilidad y sobre todo jugabilidad. Además colaboro en distintos proyectos de investigación y desarrollo. Soy formador en nuevas tecnologías y metodologías de desarrollo de aplicaciones multiplataforma, web o móviles (siempre centradas el usuario). Me encanta evaluar y poder ayudarte a mejorar tus productos interactivos y aprender de lo que haces 🙂.
+
+Personalmente he sido galardonado con distintos premios y distinciones a lo largo de mi carrera profesional, que podrás conocer en en la sección de Investigación.
+
+Me siento orgulloso de ser Kotlin Trainer Certified by JetBrain (opens new window), GitHub Campus Advisor (opens new window)y GitKraken Ambassador (opens new window). Te puedo ayudar a aplicar super poderes para desarrollar nuestro código o cómo aplicarlas a la docencia. Actualmente soy uno de los responsables de contenidos en Hyperskill (opens new window)/Jetbrains Academy (opens new window)para tecnologías relacionadas con Kotlin. Te puedo ayudar a aplicar super poderes para desarrollar nuestro código o cómo aplicarlas a la docencia. Será un placer echarte un cable con ello. ¡Cuenta conmigo! 💪
+
 This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
 
 A data-driven personal website
