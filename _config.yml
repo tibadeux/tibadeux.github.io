@@ -3,31 +3,7 @@
 # This config file is meant for settings that affect your entire site, values
 # which you are expected to set up once and rarely need to edit after that.
 # For technical reasons, this file is *NOT* reloaded automatically when you use
-# `jekyll serve`. If you change this file, please restart the server process.
-
-plugins:
-  - jekyll-remote-theme
-remote_theme: "mmistakes/minimal-mistakes"
-minimal_mistakes_skin: "dark" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
-
-# Reading Files
-include:
-  - .htaccess
-  - _pages
-  - files
-exclude:
-  - "*.sublime-project"
-  - "*.sublime-workspace"
-  - .asset-cache
-  - .bundle
-  - .jekyll-assets-cache
-  - .sass-cache
-  - assets`
-
-
-
-
-
+# `jekyll serve`. If you change this file, please restart the server process
 
 
 # Site Settings
@@ -107,7 +83,7 @@ analytics:
 author:
   name             : "Gerardo Daniel López Montejo"
   avatar           : "profile.png"
-  bio              : "🗺️ Profesor de Apoyo Técnico Académico\ 🌐 Responsable del Centro de Información Geográfica\"
+  bio              : "🗺️ Profesor de Apoyo Técnico Académico\ 🌐 Responsable del Centro de Información Geográfica"
   location         : "Location"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
