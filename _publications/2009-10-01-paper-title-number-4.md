@@ -1,7 +1,7 @@
 ---
 title: "Peligro por Ciclones tropicales en el municipio de Felipe Carrillo Puerto, Quintana Roo"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
+permalink: /publication/2009-10-01-paper-title-number-4
 excerpt: 'Análisis Territorial y el uso de tecnologías geoespaciales. Publicado en 2022.'
 date: 2022-10-01
 venue: 'Análisis Territorial y el uso de tecnologías geoespaciales. Publicado en 2022.'
