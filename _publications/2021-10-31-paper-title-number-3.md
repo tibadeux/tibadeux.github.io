@@ -1,7 +1,7 @@
 ---
 title: "Índice de resiliencia urbana costera para el manejo de residuos sólidos urbanos"
 collection: publications
-permalink: /publication/2015-10-01-paper-title-number-3
+permalink: /publication/2021-10-31-paper-title-number-3
 date: 2021-10-31
 venue: 'INVESTIGACIÓN Y CIENCIA DE LA UNIVERSIDAD AUTÓNOMA DE AGUASCALIENTES'
 paperurl: 'https://revistas.uaa.mx/index.php/investycien/article/view/2808'
