@@ -1,5 +1,5 @@
 ---
-title: "Desafíos y oportunidades de los Atlas Municipales de Riesgo como instrumentos de gestión y planeación de territorios"
+title: "Desafíos de los sistemas locales de la gestión Integral del riesgo de desastre, sistemas socioecológicos y cambio climático"
 collection: publications
 permalink: /publication/2021-07-01-paper-title-number-5
 date: 2021-07-01
