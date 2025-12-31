@@ -17,6 +17,9 @@ main:
     
   - title: "CV"
     url: /cv/
+
+  - title: "Currículum virtual"
+    url: /curriculum-virtual/
     
   - title: "Guide"
     url: /markdown/
